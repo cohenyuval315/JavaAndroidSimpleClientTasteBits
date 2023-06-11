@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/shift_supervisor_nav_home">
+
+    <fragment
+        android:id="@+id/shift_supervisor_nav_home"
+        android:name="com.example.tastebits.shift_supervisor.ui.home.HomeFragment"
+        android:label="@string/menu_supervisor_home"
+        tools:layout="@layout/fragment_shift_supervisor_home" />
+
+    <fragment
+        android:id="@+id/shift_supervisor_nav_new_orders"
+        android:name="com.example.tastebits.shift_supervisor.ui.orders.NewOrdersFragment"
+        android:label="@string/menu_new_orders"
+        tools:layout="@layout/fragment_shift_supervisor_new_orders" />
+
+    <fragment
+        android:id="@+id/shift_supervisor_nav_pending_orders"
+        android:name="com.example.tastebits.shift_supervisor.ui.orders.PendingOrdersFragment"
+        android:label="@string/menu_pending_orders"
+        tools:layout="@layout/fragment_shift_supervisor_pending_orders" />
+
+    <fragment
+        android:id="@+id/shift_supervisor_nav_waiting_orders"
+        android:name="com.example.tastebits.shift_supervisor.ui.orders.WaitingOrdersFragment"
+        android:label="@string/menu_waiting_orders"
+        tools:layout="@layout/fragment_shift_supervisor_waiting_orders" />
+
+    <fragment
+        android:id="@+id/shift_supervisor_nav_ongoing_orders"
+        android:name="com.example.tastebits.shift_supervisor.ui.orders.OngoingOrdersFragment"
+        android:label="@string/menu_ongoing_orders"
+        tools:layout="@layout/fragment_shift_supervisor_ongoing_orders" />
+    <fragment
+        android:id="@+id/shift_supervisor_nav_completed_orders"
+        android:name="com.example.tastebits.shift_supervisor.ui.orders.CompletedOrdersFragment"
+        android:label="@string/menu_completed_orders"
+        tools:layout="@layout/fragment_shift_supervisor_completed_orders" />
+    <fragment
+        android:id="@+id/shift_supervisor_nav_restaurant_menu_availability"
+        android:name="com.example.tastebits.shift_supervisor.ui.menu.RestaurantMenuAvailabilityFragment"
+        android:label="@string/menu_restaurant_menu_availability"
+        tools:layout="@layout/fragment_shift_supervisor_restaurant_menu_availability" />
+    <fragment
+        android:id="@+id/shift_supervisor_nav_messages"
+        android:name="com.example.tastebits.shift_supervisor.ui.messages.MessagesFragment"
+        android:label="@string/menu_messages"
+        tools:layout="@layout/fragment_shift_supervisor_messages" />
+
+
+
+</navigation>

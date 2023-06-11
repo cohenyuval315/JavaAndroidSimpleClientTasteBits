@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/driver_navigation_home">
+
+    <fragment
+        android:id="@+id/driver_navigation_home"
+        android:name="com.example.tastebits.driver.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_driver_home" />
+
+    <fragment
+        android:id="@+id/driver_navigation_waiting_orders"
+        android:name="com.example.tastebits.driver.ui.orders.WaitingOrdersFragment"
+        android:label="@string/waiting_orders"
+        tools:layout="@layout/fragment_restaurant_waiting_orders" />
+
+    <fragment
+        android:id="@+id/driver_navigation_current_order"
+        android:name="com.example.tastebits.driver.ui.orders.CurrentOrderFragment"
+        android:label="@string/driver_current_order"
+        tools:layout="@layout/fragment_driver_current_order" />
+
+</navigation>

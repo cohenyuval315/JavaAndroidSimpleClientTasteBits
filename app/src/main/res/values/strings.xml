@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TasteBits</string>
+    <string name="sign_in">sign in</string>
+    <string name="welcome_subtitle_message">welcome to taste bits!</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+
+    <string name="already_register">Already Registered ?</string>
+
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="_10_00_23_00">10:00-23:00</string>
+    <string name="_5_0">5.0</string>
+    <string name="product_name">Product name</string>
+    <string name="min_45">Min - $45</string>
+    <string name="menu_user_profile">Profile</string>
+    <string name="title_activity_restaurant_main">RestaurantMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_shift_supervisor_main">ShiftSupervisorMainActivity</string>
+    <string name="title_activity_driver_main">DriverMainActivity</string>
+    <string name="menu_new_orders">new orders</string>
+    <string name="menu_supervisor_home">restaurant home</string>
+    <string name="menu_messages">Messages</string>
+    <string name="menu_restaurant_menu_availability">Items</string>
+    <string name="menu_completed_orders">Completed</string>
+    <string name="menu_ongoing_orders">Ongoing</string>
+    <string name="menu_waiting_orders">Waiting</string>
+    <string name="menu_pending_orders">Pending</string>
+    <string name="restaurant_messages">Messages</string>
+    <string name="restaurant_menu">Menu</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="driver_current_order">Current Order</string>
+    <string name="waiting_orders">New Orders</string>
+</resources>

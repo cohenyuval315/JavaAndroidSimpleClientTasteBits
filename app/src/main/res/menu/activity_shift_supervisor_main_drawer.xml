@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/shift_supervisor_nav_home"
+        android:title="@string/menu_supervisor_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/shift_supervisor_nav_new_orders"
+        android:title="@string/menu_new_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/shift_supervisor_nav_pending_orders"
+        android:title="@string/menu_pending_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/shift_supervisor_nav_waiting_orders"
+        android:title="@string/menu_waiting_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/shift_supervisor_nav_ongoing_orders"
+        android:title="@string/menu_ongoing_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/shift_supervisor_nav_completed_orders"
+        android:title="@string/menu_completed_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/shift_supervisor_nav_messages"
+        android:title="@string/menu_messages"
+        android:icon="@drawable/ic_messages"
+        />
+
+
+
+
+</menu>

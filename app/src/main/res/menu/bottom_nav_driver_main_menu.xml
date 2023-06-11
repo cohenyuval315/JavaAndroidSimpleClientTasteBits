@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/driver_navigation_home"
+        android:title="@string/title_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/driver_navigation_waiting_orders"
+        android:title="@string/waiting_orders"
+        android:icon="@drawable/ic_messages"
+        />
+    <item
+        android:id="@+id/driver_navigation_current_order"
+        android:title="@string/driver_current_order"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        />
+
+</menu>

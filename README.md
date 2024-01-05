@@ -1,9 +1,18 @@
-# TasteBits
-Java Android Studio Project  
-Simple Client for food delivery application  
-Project length : 1 week project  
+# Project Title: TasteBits
 
+## Development Environment
+Java Android Studio Project
 
+## Project Description
+The project involves the creation of a simple client application for a food delivery service, specifically designed for the Android platform. This endeavor marks my initial foray into Android application development.
+
+## Project Context
+This project was undertaken as part of a university assignment. While my team collaborated on the documentation aspects, I took sole responsibility for the development of the Android application.
+
+## Project Timeline
+The project was successfully completed within the estimated timeline of one week, with a total effort of 20 man-hours. This projection considered the learning curve associated with venturing into Android development and aimed to streamline the development process efficiently.
+
+This self-contained project timeline served as a roadmap for my individual efforts, facilitating a structured approach to accomplish the outlined tasks within the specified timeframe. Continuous self-assessment and adaptation were key to meeting the project goals and ensuring a successful outcome.
 
 ## Initial Application Pages
 ![image](https://github.com/cohenyuval315/JavaAndroidSimpleClientTasteBits/assets/61754002/b921454d-ba8a-4bf6-a4a3-be3fc682d1fc)
